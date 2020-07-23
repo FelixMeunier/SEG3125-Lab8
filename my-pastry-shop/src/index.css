@@ -31,12 +31,18 @@ p{
   margin: 10px;
 }
 
+
+
+.margin{
+  margin: 10px;
+}
+
 h2{
   margin: 10px;
 }
 
-button{
-  margin: 10px;
+Button{
+  margin: 10px !important;
 }
 
 .split {
